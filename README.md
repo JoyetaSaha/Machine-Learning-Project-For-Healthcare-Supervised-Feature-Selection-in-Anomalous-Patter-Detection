@@ -10,4 +10,4 @@ Vector Machine, Random Forest, and Artificial Neural Network
 Evaluated the model utilizing a confusion matrix, Precision, Recall, Specificity and F1 score and observed that Random
 Forest classifier outperformed with 0.962 F1 score
 
-TensorFlow, Scikit-learn, Matplotlib, NumPy, Pandas, Keras, Python, Artificial Neural network, Jupyter Notebook
+Tech: TensorFlow, Scikit-learn, Matplotlib, NumPy, Pandas, Keras, Python, Artificial Neural network, Jupyter Notebook
