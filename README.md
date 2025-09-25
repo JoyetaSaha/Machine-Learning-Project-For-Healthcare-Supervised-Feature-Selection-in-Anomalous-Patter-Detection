@@ -1,4 +1,4 @@
-#Supervised Feature Selection in Anomalous Pattern Detection
+Supervised Feature Selection in Anomalous Pattern Detection
 
 Developed an automated feature selection technique by aggregating several state-of the art feature selection methods
 such as: Filters, Wrappers and embedded methods employing the ensemble technique in order to help the clinicians for
